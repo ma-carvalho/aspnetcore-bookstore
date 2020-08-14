@@ -1,0 +1,11 @@
+# AspNetCore.BookStore
+ASP.NET Core application using Command Pattern and Repository Pattern.
+
+## Patterns/Technologies:
+* ASP.NET Core 2.2
+* Entity Framework Core 2.2
+* Command Pattern
+* Repository Pattern
+* MediatR
+* Fluent Validation
+* AutoMapper
